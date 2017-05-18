@@ -1,0 +1,42 @@
+{
+  "name": "trtl",
+  "version": "1.0.0",
+  "description": "react based recruitment app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoffDev/TRTL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoffDev/TRTL/issues"
+  },
+  "homepage": "https://github.com/PoffDev/TRTL#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "body-parser": "^1.17.1",
+    "connect-flash": "^0.1.1",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "mongojs": "^2.4.0",
+    "morgan": "^1.8.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "react": "^15.5.4",
+    "react-materialize": "^0.18.4",
+    "react-router": "^4.1.1",
+    "router": "^1.3.0",
+    "webpack": "^2.5.1"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.24.1"
+  }
+}
